@@ -92,6 +92,7 @@ Bayesian, statistics and Linguistics approaches for Natural Language Processing 
 * [Statistical Machine Translation](http://mt-class.org) - a Machine Translation course with great assignments and slides
 * [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) by Harrison Kinsley(sentdex). Good tutorials with NLTK code implementation
 * [Computational Linguistics I](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) by Jordan Boyd-Graber, Lectures from University of Maryland
+* [Natural Language Processing, CSEP 517 (2017)](https://www.youtube.com/user/UWCSE/search?query=CSEP+517) Lectures by Noah Smith, Paul G. Allen School of Computer Science and Engineering, University of Washington. According to the instructor, a course aimed at students of the Professional Masters course based on an undergraduate course on NLP.
 
 ### Books
 
